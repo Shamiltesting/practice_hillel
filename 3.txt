@@ -1,6 +1,10 @@
 dsad
 1111
 
+<<<<<<< HEAD
 
 
 HERE FROM b_branch
+=======
+HERE FROM main
+>>>>>>> main
