@@ -1,2 +1,3 @@
 Here we try how work git fetch command
 dasds
+git pull
