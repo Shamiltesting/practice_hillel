@@ -1,1 +1,2 @@
-Here we try how work git fetch commad
+Here we try how work git fetch command
+dasds
